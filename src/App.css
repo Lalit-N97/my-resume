@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.screen {
+  width: 50%;
+  height: 70%;
+  margin: 5% 5% 10% 30%;
+  border: 1px solid rgb(197, 141, 204);
+  position: absolute;
+  padding: 20px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+}
