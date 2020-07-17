@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.main-img {
+  height: 100px;
+  width: 100px;
+  border: 1px solid red;
+}
